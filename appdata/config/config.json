@@ -1,10 +1,10 @@
 {
-    "cr_monitor_series_id": [],
+    "cr_monitor_series_id": ["G64PQXPWR"],
     "hidive_monitor_series_id": [],
     "app": {
-        "CR_ENABLED": false,
-        "CR_USERNAME": "",
-        "CR_PASSWORD": "",
+        "CR_ENABLED": true,
+        "CR_USERNAME": "ltandel44@gmail.com",
+        "CR_PASSWORD": "Lucky@220307",
         "HIDIVE_ENABLED": false,
         "HIDIVE_USERNAME": "",
         "HIDIVE_PASSWORD": "",
@@ -22,7 +22,7 @@
             "q": 0,
             "partsize": 3,
             "dubLang": [
-                "jpn",
+                "tam",
                 "eng"
             ],
             "dlsubs": [
