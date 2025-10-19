@@ -1,0 +1,38 @@
+{
+    "cr_monitor_series_id": ["G64PQXPWR"],
+    "hidive_monitor_series_id": [],
+    "app": {
+        "CR_ENABLED": true,
+        "CR_USERNAME": "ltandel44@gmail.com",
+        "CR_PASSWORD": "Lucky@220307",
+        "HIDIVE_ENABLED": false,
+        "HIDIVE_USERNAME": "",
+        "HIDIVE_PASSWORD": "",
+        "BACKUP_DUBS": [
+            "zho"
+        ],
+        "FOLDER_STRUCTURE": "${seriesTitle}/S${season}/${seriesTitle} - S${seasonPadded}E${episodePadded}",
+        "CHECK_MISSING_DUB_SUB": true,
+        "CHECK_FOR_UPDATES_INTERVAL": 3600,
+        "BETWEEN_EPISODE_DL_WAIT_INTERVAL": 30,
+        "LOG_LEVEL": "info"
+    },
+    "mdnx": {
+        "cli-defaults": {
+            "q": 0,
+            "partsize": 3,
+            "dubLang": [
+                "tam",
+                "eng"
+            ],
+            "dlsubs": [
+                "en"
+            ],
+            "defaultAudio": "jpn",
+            "defaultSub": "eng",
+            "vstream": "androidtv",
+            "astream": "androidtv",
+            "tsd": false
+        }
+    }
+}
